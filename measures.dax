@@ -1,0 +1,16 @@
+// Paste each into Power BI: Modeling > New measure
+Total Revenue = SUMX(order_items, order_items[quantity] * order_items[unit_price] * (1 - order_items[discount_pct]))
+
+Total Profit = SUMX(order_items, order_items[quantity] * (order_items[unit_price] * (1 - order_items[discount_pct]) - RELATED(products[unit_cost])))
+
+Margin % = DIVIDE([Total Profit], [Total Revenue], 0)
+
+Total Orders = DISTINCTCOUNT(orders[order_id])
+
+Active Customers = DISTINCTCOUNT(orders[customer_id])
+
+Avg Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
+
+Revenue MoM % = VAR Cur = [Total Revenue] VAR Prior = CALCULATE([Total Revenue], DATEADD(calendar[Date], -1, MONTH)) RETURN DIVIDE(Cur - Prior, Prior)
+
+Revenue Rank Product = RANKX(ALL(products[product_name]), [Total Revenue])

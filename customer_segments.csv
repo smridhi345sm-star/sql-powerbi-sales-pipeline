@@ -1,0 +1,148 @@
+customer_id,customer_name,region,frequency,monetary,recency_days,segment
+17,Pooja Sharma,North,8,293214.31,198,At Risk
+40,Anika Rao,East,9,290472.61,36,High-Value Active
+102,Rohan Bose,West,10,283018.74,21,High-Value Active
+74,Priya Pillai,East,8,260038.97,33,High-Value Active
+10,Ayaan Pillai,East,8,224951.27,2,High-Value Active
+139,Ananya Patel,North,7,200497.42,73,Loyal
+62,Anika Gupta,South,8,191726.06,37,High-Value Active
+148,Ayaan Kumar,West,9,191614.08,89,Loyal
+75,Neha Bose,North,6,179180.37,12,High-Value Active
+20,Saanvi Iyer,West,8,176233.64,17,High-Value Active
+96,Neha Reddy,West,8,175039.48,46,High-Value Active
+34,Sneha Bose,West,7,174786.87,52,High-Value Active
+21,Dhruv Kumar,South,6,169916.48,42,High-Value Active
+98,Priya Das,East,8,169842.6,4,High-Value Active
+140,Arjun Rao,West,6,166408.52,10,High-Value Active
+29,Navya Nair,South,6,166072.54,70,Loyal
+37,Ayaan Sharma,North,7,165429.1,121,Loyal
+145,Riya Mehta,West,8,164745.0,87,Loyal
+30,Aarohi Pillai,South,8,163981.77,82,Loyal
+36,Aarav Shetty,South,7,158956.95,46,High-Value Active
+144,Sneha Shetty,North,7,158773.35,51,High-Value Active
+110,Kavya Pillai,South,5,150747.46,133,Regular
+9,Myra Nair,East,4,143413.78,86,Regular
+122,Priya Rao,East,5,141724.47,238,At Risk
+73,Diya Singh,South,6,137928.86,66,Loyal
+149,Aarav Mehta,East,5,136693.74,173,Regular
+99,Priya Rao,South,5,136117.71,53,High-Value Active
+125,Pooja Gupta,West,7,135268.36,18,High-Value Active
+84,Krishna Iyer,West,4,135025.19,40,High-Value Active
+38,Rohan Verma,South,7,131049.35,51,High-Value Active
+76,Priya Pillai,East,6,130555.04,45,High-Value Active
+116,Riya Singh,West,8,130468.48,64,Loyal
+85,Aryan Kapoor,North,7,130025.6,96,Loyal
+44,Vihaan Reddy,West,4,129757.91,78,Regular
+106,Saanvi Joshi,East,5,129182.34,22,High-Value Active
+71,Navya Menon,East,4,128861.34,140,Regular
+22,Kavya Reddy,East,4,127291.84,30,High-Value Active
+100,Kabir Menon,West,8,126693.42,18,High-Value Active
+101,Krishna Gupta,East,4,126020.87,221,At Risk
+61,Aarohi Bose,South,5,125771.25,33,High-Value Active
+63,Siya Gupta,South,5,124484.96,63,Regular
+135,Krishna Rao,East,4,121951.47,89,Regular
+72,Kavya Joshi,North,6,121704.14,115,Loyal
+124,Vivaan Rao,West,6,121622.25,26,High-Value Active
+97,Pooja Chatterjee,South,7,121260.2,59,High-Value Active
+59,Riya Pillai,North,4,120834.54,89,Regular
+35,Ayaan Rao,North,3,120650.17,53,High-Value Active
+90,Kabir Rao,North,5,118164.02,1,High-Value Active
+112,Ananya Reddy,East,5,117874.08,43,High-Value Active
+141,Arjun Menon,North,7,115990.76,38,High-Value Active
+95,Pooja Rao,East,4,114915.99,95,Regular
+80,Ananya Menon,East,4,113776.59,19,High-Value Active
+15,Aditya Mehta,West,6,112807.13,13,High-Value Active
+103,Priya Pillai,East,4,112783.41,30,High-Value Active
+78,Sneha Reddy,South,4,112698.3,26,High-Value Active
+115,Saanvi Mehta,South,4,110443.22,51,High-Value Active
+14,Rohan Iyer,West,7,109666.84,70,Loyal
+91,Yash Pillai,West,3,109452.58,142,Regular
+13,Yash Verma,North,4,106798.94,296,At Risk
+83,Aarav Patel,South,4,104639.7,254,At Risk
+67,Reyansh Patel,South,3,104602.22,90,Regular
+6,Neha Patel,West,4,102657.84,214,At Risk
+39,Sneha Verma,East,4,102425.4,197,At Risk
+77,Vihaan Nair,East,5,102033.68,28,High-Value Active
+33,Ishaan Mehta,East,6,100078.84,0,High-Value Active
+131,Navya Rao,North,5,99758.87,15,High-Value Active
+142,Saanvi Patel,West,5,95975.27,275,At Risk
+52,Kavya Rao,South,4,90923.69,203,At Risk
+120,Aarohi Iyer,North,3,90645.69,100,Regular
+92,Dhruv Nair,South,3,89048.53,163,Regular
+47,Dhruv Patel,North,4,87416.25,81,Regular
+24,Diya Iyer,North,6,86010.87,165,Loyal
+114,Aryan Singh,South,6,84151.84,91,Loyal
+81,Aarohi Kumar,North,6,83806.75,118,Loyal
+60,Ananya Verma,North,4,83188.77,132,Regular
+87,Riya Pillai,South,4,82287.3,92,Regular
+118,Reyansh Kapoor,East,5,81740.38,92,Regular
+119,Myra Das,South,5,80832.16,84,Regular
+86,Aditya Nair,North,5,79416.17,45,High-Value Active
+126,Sneha Shetty,South,2,78755.08,121,Regular
+104,Vihaan Kumar,South,4,78440.87,32,High-Value Active
+93,Neha Iyer,West,4,77027.66,178,Regular
+113,Ishaan Kapoor,East,4,76762.41,121,Regular
+128,Ayaan Nair,North,3,76724.78,303,At Risk
+4,Aadhya Kumar,South,5,76351.05,20,High-Value Active
+28,Dhruv Chatterjee,North,3,75901.96,105,Regular
+49,Saanvi Iyer,East,4,75618.02,290,At Risk
+143,Vivaan Menon,West,4,74899.99,121,Regular
+53,Aarohi Chatterjee,South,4,74722.14,101,Regular
+11,Riya Kapoor,West,5,73305.74,13,High-Value Active
+50,Ayaan Gupta,West,2,73294.51,14,High-Value Active
+138,Aryan Singh,South,4,73234.28,330,At Risk
+18,Sneha Pillai,East,2,71706.77,306,At Risk
+41,Aarohi Menon,South,3,71442.25,121,Regular
+48,Reyansh Menon,West,2,71088.7,105,Regular
+56,Neha Das,East,3,70932.44,111,Regular
+79,Ishaan Naidu,South,3,70041.54,224,At Risk
+109,Vivaan Kapoor,North,3,69948.61,49,High-Value Active
+57,Aryan Pillai,West,4,69820.04,85,Regular
+105,Krishna Verma,North,5,69390.5,21,High-Value Active
+107,Siya Bose,North,2,68798.52,219,At Risk
+23,Anika Naidu,South,2,68087.2,205,At Risk
+136,Yash Bose,West,2,67552.76,315,At Risk
+7,Aditya Menon,East,3,67135.01,220,At Risk
+70,Siya Shetty,North,5,65619.83,10,High-Value Active
+65,Siya Verma,North,4,65005.65,339,At Risk
+121,Anika Naidu,East,4,64908.71,39,High-Value Active
+12,Ayaan Nair,West,5,63130.07,13,High-Value Active
+88,Arjun Verma,East,3,62336.99,27,High-Value Active
+137,Ayaan Kumar,West,3,61857.86,229,At Risk
+130,Sai Bose,West,3,57403.53,373,At Risk
+111,Saanvi Gupta,East,2,56682.0,362,At Risk
+132,Arjun Das,East,5,56645.93,211,At Risk
+82,Rohan Kapoor,East,1,56459.58,380,At Risk
+117,Priya Sharma,East,4,56300.71,138,Regular
+146,Diya Singh,West,3,55816.34,251,At Risk
+25,Ananya Chatterjee,North,4,55559.83,11,High-Value Active
+89,Sneha Verma,East,3,55063.29,123,Regular
+127,Aryan Mehta,West,2,52090.54,151,Regular
+55,Aarav Mehta,East,3,50571.79,224,At Risk
+54,Sneha Verma,South,4,49220.0,43,High-Value Active
+2,Krishna Gupta,South,5,49111.24,3,High-Value Active
+1,Diya Joshi,South,2,47299.64,287,At Risk
+46,Vivaan Reddy,North,3,47266.44,43,High-Value Active
+31,Anika Naidu,West,4,46920.61,87,Regular
+58,Reyansh Singh,South,2,43770.19,81,Regular
+5,Ananya Verma,South,2,42676.67,300,At Risk
+66,Kabir Shetty,East,4,42610.81,150,Regular
+129,Pooja Reddy,West,2,42530.35,233,At Risk
+19,Rohan Patel,North,3,42124.23,6,High-Value Active
+123,Neha Menon,South,2,38891.9,342,At Risk
+134,Myra Iyer,West,4,38800.02,10,High-Value Active
+3,Dhruv Rao,South,3,37051.26,70,Regular
+147,Navya Pillai,South,2,35178.24,309,At Risk
+16,Myra Bose,East,2,34337.94,62,Regular
+68,Aadhya Nair,East,3,34188.73,51,High-Value Active
+45,Saanvi Kapoor,West,3,33516.77,47,High-Value Active
+69,Ananya Gupta,North,1,29143.24,505,At Risk
+26,Kavya Joshi,East,3,28054.04,18,High-Value Active
+43,Neha Chatterjee,West,4,26722.68,98,Regular
+27,Vivaan Rao,North,1,25829.13,539,At Risk
+108,Sneha Shetty,South,2,24479.31,227,At Risk
+42,Kavya Shetty,West,1,23721.21,470,At Risk
+51,Vihaan Verma,North,3,21380.88,86,Regular
+8,Rohan Chatterjee,West,1,21202.03,367,At Risk
+150,Kabir Mehta,South,2,19571.12,500,At Risk
+32,Kavya Pillai,South,1,14967.71,288,At Risk
